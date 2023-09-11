@@ -2,11 +2,11 @@
 Hello there 👋 I am Nasieku!
 </h1>
 <a href="https://www.linkedin.com/in/vivian-nasieku-89766384" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Mwikali%20-blue?logo=linkedin&logoColor=blue&color=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Nasieku%20-blue?logo=linkedin&logoColor=blue&color=white" />
 </a>
 
 <a href="mailto:knasieku@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-Mwikali%20-white?logo=gmail&logoColor=&color=white" />
+  <img src="https://img.shields.io/badge/Gmail-Nasieku%20-white?logo=gmail&logoColor=&color=white" />
 </a>
 
 
