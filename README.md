@@ -22,7 +22,7 @@ Hello there 👋 I am Nasieku!
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Knasieku&theme=gotham" />
     </div>
     <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Knasieku&theme=gotham&custom_title=Mwikali's%20github%20stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Knasieku&theme=gotham&custom_title=Nasieku's%20github%20stats" />
     </div>
 </div>
 
